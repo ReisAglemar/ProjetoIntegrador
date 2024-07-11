@@ -1,6 +1,6 @@
 
 # Rafael Cardoso de Souza
-| ![Minha Foto](https://avatars.githubusercontent.com/u/30002986?v=4) | Olá! Eu sou o Rafael Cardoso de Souza, um estudante de Engenharia de Software no quarto trimestre, com o objetivo de me tornar um engenheiro de software especializado em desenvolvimento back-end. |
+| ![Minha Foto](https://avatars.githubusercontent.com/u/30002986?v=4) | Olá! Eu sou o Rafael Cardoso de Souza, um estudante de Engenharia de Software no quarto semestre, com o objetivo de me tornar um engenheiro de software especializado em desenvolvimento back-end. |
 |--------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 
